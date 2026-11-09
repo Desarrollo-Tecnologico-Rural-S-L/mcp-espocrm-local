@@ -71,3 +71,4 @@ Levanta un EspoCRM falso y comprueba que el servidor envía bien la clave, los f
 ## Licencia
 
 GPL-3.0. Consulta [LICENSE](LICENSE).
+
