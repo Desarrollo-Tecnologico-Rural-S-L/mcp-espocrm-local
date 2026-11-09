@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "espocrm": {
+      "command": "node",
+      "args": ["C:/ruta/a/mcp-espocrm-local/server.mjs"],
+      "env": {
+        "ESPOCRM_URL": "https://tu-crm.example.com",
+        "ESPOCRM_API_KEY": "CLAVE_DEL_USUARIO_API"
+      }
+    }
+  }
+}
